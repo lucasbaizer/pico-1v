@@ -3119,23 +3119,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -4.318 6.096 0)
+			(property "Reference" "Y1"
+				(at 3.556 6.096 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "ECS-3225MV-120-BN-TR3"
+				(at 13.208 8.382 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 1.016 1.016)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3222,7 +3222,7 @@
 							)
 						)
 					)
-					(number ""
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -12870,7 +12870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
 			(at 104.14 187.96 0)
 			(effects
 				(font
@@ -12900,7 +12900,7 @@
 		(pin "1"
 			(uuid "f3044ca0-4559-4113-8b09-7edc75c0e581")
 		)
-		(pin ""
+		(pin "2"
 			(uuid "c2a55b28-03b8-4843-a72a-55292fdf6a73")
 		)
 		(pin "4"
