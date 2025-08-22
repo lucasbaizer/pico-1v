@@ -14,3 +14,7 @@ Pico 1V is sill pin-compatible with the official Raspberry Pi Pico board, so you
 This project was originally based on [Mitayi-Pico-D1](https://github.com/CIRCUITSTATE/Mitayi-Pico-D1).
 
 The voltage-switching is implemented based on [this fantastic blog post](https://blog.awoo.systems/posts/2024-07-27-rp2040-low-voltage-operation).
+
+## License
+
+This project is licensed under the [MIT license](./LICENSE).
