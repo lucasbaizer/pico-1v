@@ -497,7 +497,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Pico-1V.kicad_pro",
+    "filename": "pico-1v.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -616,23 +616,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+1V1": [
-        "1V1"
-      ],
-      "+3V3": [
-        "3V3"
-      ],
-      "/VSYS": [
-        "VSYS"
-      ],
-      "GND": [
-        "GND"
-      ],
-      "VBUS": [
-        "VBUS"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "DIFF",

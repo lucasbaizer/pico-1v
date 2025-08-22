@@ -17,22 +17,23 @@
     },
     "ratsnest_display_mode": 1,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
-      "graphics": false,
-      "keepouts": false,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": true,
-      "otherItems": false,
-      "pads": false,
+      "otherItems": true,
+      "pads": true,
       "text": true,
-      "tracks": false,
-      "vias": false,
-      "zones": false
+      "tracks": true,
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       "vias",
       "footprint_text",
       "footprint_anchors",
+      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -59,7 +60,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Pico-1V.kicad_prl",
+    "filename": "pico-1v.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -88,16 +89,16 @@
       9
     ],
     "col_widths": [
-      174,
-      159,
-      100,
-      71,
-      100,
-      100,
-      100,
-      75,
-      100,
-      100
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
