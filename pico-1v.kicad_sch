@@ -9,8 +9,7 @@
 		(date "2025-08-21")
 		(rev "0")
 		(company "BAIZERLABS")
-		(comment 1 "https://github.com/CIRCUITSTATE/Pico-1V")
-		(comment 2 "Based on Pico-1V")
+		(comment 1 "https://github.com/lucasbaizer/pico-1v")
 	)
 	(lib_symbols
 		(symbol "+1V1_1"
@@ -16076,11 +16075,12 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
-			(at 165.1 113.03 0)
+			(at 167.894 116.84 0)
 			(effects
 				(font
 					(size 0.8 0.8)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
