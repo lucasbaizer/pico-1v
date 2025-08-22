@@ -3,7 +3,7 @@
   "description": "Configuration file for KiExport",
   "filetype": "json",
   "version": "1.5",
-  "project_name": "Mitayi-Pico-D1",
+  "project_name": "Pico-1V",
   "commands": [
     "gerbers",
     "sch_pdf",

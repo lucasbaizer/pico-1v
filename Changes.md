@@ -4,7 +4,7 @@
 #
 ### **+05:30 10:54:59 AM 27-04-2025, Sunday**
 
-  - Renamed project to `Mitayi-Pico-D1`.
+  - Renamed project to `Pico-1V`.
   - Schematic
     - Updated colors.
     - Added `VSYS` net class.
