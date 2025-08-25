@@ -262,7 +262,18 @@
       "mfg": "",
       "mpn": ""
     },
-    "layer_pairs": [],
+    "layer_pairs": [
+      {
+        "bottomLayer": 2,
+        "enabled": true,
+        "topLayer": 0
+      },
+      {
+        "bottomLayer": 6,
+        "enabled": true,
+        "topLayer": 0
+      }
+    ],
     "layer_presets": [],
     "viewports": []
   },
@@ -530,7 +541,7 @@
         "microvia_drill": 0.1,
         "name": "1V1",
         "pcb_color": "rgb(255, 241, 89)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 241, 89)",
         "track_width": 0.15,
         "via_diameter": 0.4,
@@ -547,7 +558,7 @@
         "microvia_drill": 0.1,
         "name": "3V3",
         "pcb_color": "rgb(255, 169, 111)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(255, 169, 111)",
         "track_width": 0.15,
         "via_diameter": 0.4,
@@ -564,7 +575,7 @@
         "microvia_drill": 0.1,
         "name": "DIFF",
         "pcb_color": "rgb(109, 142, 255)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgb(109, 142, 255)",
         "track_width": 0.15,
         "via_diameter": 0.4,
@@ -581,7 +592,7 @@
         "microvia_drill": 0.1,
         "name": "GND",
         "pcb_color": "rgb(133, 255, 198)",
-        "priority": 4,
+        "priority": 5,
         "schematic_color": "rgb(133, 255, 198)",
         "track_width": 0.15,
         "via_diameter": 0.4,
@@ -598,7 +609,7 @@
         "microvia_drill": 0.1,
         "name": "VBUS",
         "pcb_color": "rgb(255, 68, 68)",
-        "priority": 5,
+        "priority": 6,
         "schematic_color": "rgb(255, 68, 68)",
         "track_width": 0.15,
         "via_diameter": 0.4,
@@ -606,9 +617,23 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "VDD",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.4,
+        "via_drill": 0.2
+      },
+      {
         "name": "VSYS",
         "pcb_color": "rgb(255, 109, 149)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(255, 109, 149)"
       }
     ],
@@ -625,6 +650,10 @@
       {
         "netclass": "DIFF",
         "pattern": "*D+"
+      },
+      {
+        "netclass": "VDD",
+        "pattern": "VDD"
       }
     ]
   },

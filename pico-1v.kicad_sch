@@ -9258,7 +9258,7 @@
 		)
 	)
 	(global_label "USB_D+"
-		(shape input)
+		(shape bidirectional)
 		(at 36.83 67.31 180)
 		(fields_autoplaced yes)
 		(effects
@@ -9269,7 +9269,7 @@
 		)
 		(uuid "385e4513-1665-4a0d-9da7-7235ddce8d8b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.1297 67.31 0)
+			(at 25.1137 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9390,7 +9390,7 @@
 		)
 	)
 	(global_label "USB_D-"
-		(shape output)
+		(shape bidirectional)
 		(at 274.32 110.49 0)
 		(fields_autoplaced yes)
 		(effects
@@ -9401,7 +9401,7 @@
 		)
 		(uuid "4b10225c-a7ff-41c6-bbbc-e100288cc2f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 285.0203 110.49 0)
+			(at 286.0363 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10380,7 +10380,7 @@
 		)
 	)
 	(global_label "USB_D+"
-		(shape output)
+		(shape bidirectional)
 		(at 274.32 115.57 0)
 		(fields_autoplaced yes)
 		(effects
@@ -10391,7 +10391,7 @@
 		)
 		(uuid "d8c863a1-3da9-401d-8900-cfbe5236da71")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 285.0203 115.57 0)
+			(at 286.0363 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10556,7 +10556,7 @@
 		)
 	)
 	(global_label "USB_D-"
-		(shape input)
+		(shape bidirectional)
 		(at 36.83 69.85 180)
 		(fields_autoplaced yes)
 		(effects
@@ -10567,7 +10567,7 @@
 		)
 		(uuid "fdde0a68-60b9-4c90-b5e9-1ca9793cd9b8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.1297 69.85 0)
+			(at 25.1137 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15043,7 +15043,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 38.354 189.23 0)
 			(effects
 				(font
@@ -15209,7 +15209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 38.354 179.07 0)
 			(effects
 				(font
@@ -16863,7 +16863,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 38.354 194.31 0)
 			(effects
 				(font
@@ -17611,7 +17611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 38.354 184.15 0)
 			(effects
 				(font
