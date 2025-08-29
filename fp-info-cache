@@ -1,4 +1,4 @@
-26654828434069876
+26656584521069673
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61354,6 +61354,13 @@ ECS-3225MV-120-BN-TR3
 0
 4
 4
+ExtraFootprints
+FireEmoji
+
+
+0
+0
+0
 ExtraFootprints
 USB_C_RECEPTACLE_31_M_12
 Korean Hroparts Elec, Power only USB connector supporting up to 3A

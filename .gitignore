@@ -1,5 +1,8 @@
+Export/
 Parts/3D-Shapes/
 *.lck
 *.kicad_sch-bak
 *.kicad_pcb-bak
 *.zip
+*.csv
+\#auto_saved_files#
