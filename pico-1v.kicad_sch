@@ -11326,7 +11326,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 386.08 46.9899 0)
 			(effects
 				(font
@@ -13020,10 +13020,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "56eddcef-a9f2-4031-ac66-87b71c90dc40")
 		(property "Reference" "U4"
-			(at 379.73 52.0699 0)
+			(at 376.428 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13032,7 +13031,7 @@
 			)
 		)
 		(property "Value" "AT25FF161A-SSHN-T"
-			(at 379.73 54.6099 0)
+			(at 347.726 41.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14180,7 +14179,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 325.12 120.6499 0)
 			(effects
 				(font
@@ -14315,7 +14314,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 91.44 185.4199 0)
 			(effects
 				(font
@@ -16311,7 +16310,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 396.24 120.6499 0)
 			(effects
 				(font
@@ -16954,7 +16953,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 368.3 120.6499 0)
 			(effects
 				(font
@@ -17999,7 +17998,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 353.06 120.6499 0)
 			(effects
 				(font
